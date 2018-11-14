@@ -1,0 +1,10 @@
+C:\Users\hc192171\Desktop\chapter 3\GUIcalculator1\GUIcalculator1\bin\Debug\GUIcalculator1.exe.config
+C:\Users\hc192171\Desktop\chapter 3\GUIcalculator1\GUIcalculator1\bin\Debug\GUIcalculator1.exe
+C:\Users\hc192171\Desktop\chapter 3\GUIcalculator1\GUIcalculator1\bin\Debug\GUIcalculator1.pdb
+C:\Users\hc192171\Desktop\chapter 3\GUIcalculator1\GUIcalculator1\obj\Debug\GUIcalculator1.csprojAssemblyReference.cache
+C:\Users\hc192171\Desktop\chapter 3\GUIcalculator1\GUIcalculator1\obj\Debug\GUIcalculator1.Form1.resources
+C:\Users\hc192171\Desktop\chapter 3\GUIcalculator1\GUIcalculator1\obj\Debug\GUIcalculator1.Properties.Resources.resources
+C:\Users\hc192171\Desktop\chapter 3\GUIcalculator1\GUIcalculator1\obj\Debug\GUIcalculator1.csproj.GenerateResource.cache
+C:\Users\hc192171\Desktop\chapter 3\GUIcalculator1\GUIcalculator1\obj\Debug\GUIcalculator1.csproj.CoreCompileInputs.cache
+C:\Users\hc192171\Desktop\chapter 3\GUIcalculator1\GUIcalculator1\obj\Debug\GUIcalculator1.exe
+C:\Users\hc192171\Desktop\chapter 3\GUIcalculator1\GUIcalculator1\obj\Debug\GUIcalculator1.pdb
